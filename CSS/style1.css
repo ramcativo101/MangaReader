@@ -1,0 +1,113 @@
+body{
+		font-family: "Arial", Serif;
+		background-color:rgba(0,0,0,.89);
+	}
+
+	.navbar{
+		background-color:rgba(0,0,0,.20);
+		overflow: hidden;
+		height:63px;
+		border: 1px solid;
+	}
+
+	.navbar a{
+		float: left;
+		display: block;
+		color: #f2f2f2;
+		text-align: center;
+		padding: 14px 16px;
+		text-decoration: none;
+		font-size: 17px;
+	}
+
+	.navbar ul{
+		margin: 8px 0 0 0;
+		list-style: none;
+	}
+
+	.navbar a:hover{
+		background-color: #ddd;
+		color: #000;
+	}
+
+	.nav{
+		background-color:rgba(0,0,0,.50);
+		overflow: hidden;
+		height:45px;
+		border-bottom: 4px solid #F1C40F;
+	}
+
+	.list-block ul{
+		list-style: none;
+		margin: 0;
+	}
+
+	.list-block ul li{
+		padding: 5px;
+		position: relative;
+		width: 2000px;
+		border-top: 1px solid rgba(0,0,0,.75);
+	}
+
+	.list-block ul li a{
+		color: #fff;
+		text-decoration: none;
+	}
+
+	.navb{
+		background-color:rgba(0,0,0,.50);
+		overflow: hidden;
+		height:45px;
+		border-bottom: 4px solid #F1C40F;
+	}
+
+	.navb a{
+		float: left;
+		display: block;
+		color: #f2f2f2;
+		text-align: center;
+		padding: 10px 10px;
+		text-decoration: none;
+		font-size: 17px;
+	}
+
+	.navb ul{
+		margin: 8px 0 0 0;
+		list-style: none;
+	}
+
+	.navb a:hover{
+		background-color: #ddd;
+		color: #000;
+	}
+
+	.img{
+		padding: 30px;
+
+	}
+	
+	.chap ul{
+		text-decoration: none;
+		list-style: none;
+
+	}
+
+	.chap ul li{
+		padding: 5px;
+		position: relative;
+		width: 2000px;
+		border-top: 1px solid rgba(0,0,0,.75);
+		border-bottom: 1px solid rgba(0,0,0,.75);
+		border-radius: 200px;
+
+	}
+
+	.chap ul li a{
+		color: #fff;
+		text-decoration: none;
+	}
+
+	.epage{
+		padding: 20px;
+		position: relative;
+	}
